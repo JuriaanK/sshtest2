@@ -1,4 +1,4 @@
 package novi.basics.tripledigits;
 
-public class gCommit {
+public class Commit {
 }
